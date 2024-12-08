@@ -22,6 +22,9 @@ While hacking can enhance creativity and fun, it comes with ethical and legal im
 > Warning: Online cheats are usually against ToS and highly detectable. Proceed with caution.
 
 #
+![Mission Failed](https://github.com/user-attachments/assets/ba5f728e-6853-4ebb-9a78-3eecfedcc812)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
