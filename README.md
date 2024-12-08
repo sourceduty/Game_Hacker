@@ -10,7 +10,7 @@ Game Hacker is designed to be interactive, guiding users through step-by-step pr
 #
 ### Hacking Sports
 
-![NOS](https://github.com/user-attachments/assets/7c890fc0-35e7-4768-8801-3b5b5ffe78c2)
+![Sports](https://github.com/user-attachments/assets/766f2f1b-b57d-4497-a6fb-97879fdc76eb)
 
 | Sport        | Key Areas to Hack                                  | Tools/Methods                                                       | Skill Level       |
 |--------------|----------------------------------------------------|----------------------------------------------------------------------|-------------------|
@@ -43,6 +43,8 @@ While hacking can enhance creativity and fun, it comes with ethical and legal im
 
 #
 ![Mission Failed](https://github.com/user-attachments/assets/ba5f728e-6853-4ebb-9a78-3eecfedcc812)
+#
+![NOS](https://github.com/user-attachments/assets/7c890fc0-35e7-4768-8801-3b5b5ffe78c2)
 
 #
 ### Related Links
