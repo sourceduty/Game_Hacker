@@ -11,6 +11,14 @@ Game Hacker is designed to be interactive, guiding users through step-by-step pr
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Gaming](https://github.com/sourceduty/Gaming)
+<br>
+[Game Value](https://github.com/sourceduty/Game_Value)
+<br>
+[Game Design](https://github.com/sourceduty/Game_Design)
+<br>
+[Game Consoles](https://github.com/sourceduty/Game_Consoles)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
