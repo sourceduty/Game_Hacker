@@ -10,6 +10,8 @@ Game Hacker is designed to be interactive, guiding users through step-by-step pr
 #
 ### Hacking Sports
 
+![NOS](https://github.com/user-attachments/assets/7c890fc0-35e7-4768-8801-3b5b5ffe78c2)
+
 | Sport        | Key Areas to Hack                                  | Tools/Methods                                                       | Skill Level       |
 |--------------|----------------------------------------------------|----------------------------------------------------------------------|-------------------|
 | Soccer       | Positioning, passing strategies, stamina management, set-pieces | Tactical board apps, fitness trackers, video analysis software      | Beginner-Expert   |
