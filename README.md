@@ -56,6 +56,12 @@ While hacking can enhance creativity and fun, it comes with ethical and legal im
 [Game Design](https://github.com/sourceduty/Game_Design)
 <br>
 [Game Consoles](https://github.com/sourceduty/Game_Consoles)
+<br>
+[Motorsport Manager](https://github.com/sourceduty/Motorsport_Manager)
+<br>
+[Sports Product](https://github.com/sourceduty/Sports_Product)
+<br>
+[Sports Insider](https://github.com/sourceduty/Sports_Insider)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
