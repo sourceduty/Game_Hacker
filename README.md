@@ -17,6 +17,11 @@ Hacking games involves altering or manipulating a game’s code, files, or mecha
 While hacking can enhance creativity and fun, it comes with ethical and legal implications. In single-player games, hacking is often tolerated or even encouraged when it fosters modding communities and enriches the experience. Conversely, in multiplayer environments, hacking disrupts fair competition and can lead to bans or penalties. Developers invest in anti-cheat systems to preserve game integrity, making hacking an arms race of sorts. Ethical hacking, such as modding within developer-sanctioned limits or creating accessibility features, demonstrates the positive side of this practice, emphasizing creativity and inclusivity. Striking a balance between enhancing personal enjoyment and respecting the community is essential in the world of game hacking.
 
 #
+
+> [!CAUTION]
+> Warning: Online cheats are usually against ToS and highly detectable. Proceed with caution.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
