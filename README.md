@@ -64,6 +64,8 @@ While hacking can enhance creativity and fun, it comes with ethical and legal im
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
 [Sports Insider](https://github.com/sourceduty/Sports_Insider)
+<br>
+[Hackathon](https://github.com/sourceduty/Hackathon)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
